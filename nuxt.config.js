@@ -1,5 +1,5 @@
-const name = 'Janet Doe'
-const dates = 'July 29th 1958 - Jan 4th 2021'
+const name = 'Baron David Ward'
+const dates = '14th May 1961 - 11th May 2021'
 
 export default {
   publicRuntimeConfig: {
