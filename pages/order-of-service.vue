@@ -5,7 +5,7 @@
     </div>
     <div class="section details">
       <h1 class="title">Order of Service</h1>
-      <p><em>Date TBC</em> Details will appear here in due course.</p>
+      <p class="highlight"><em>Date TBC</em> Details will appear here in due course.</p>
     </div>
   </div>
 </template>
