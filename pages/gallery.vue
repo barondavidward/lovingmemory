@@ -5,7 +5,7 @@
     </div>
     <div class="section details">
       <h1 class="title">Tributes</h1>
- <p class="highlight">If you would like to share your tribute to Baron David Ward, please send audio snippets, brief videos, comments, experiences, pictures, poems, short stories or memoirs to <a href=mailto:tributes@barondavidward.com> tributes@barondavidward.com</a></p>      
+ <p class="highlight">If you would like to share your tribute to Baron David Ward, please send audio snippets, brief videos, comments, experiences, pictures, poems, short stories or memoirs to <a href=mailto:tributes@barondavidward.com> tributes@barondavidward.com</a> for inclusion in the upcoming livestream, which will be held in his loving memory. We will do our best to ensure that as many tributes are included as possible in the service.</p>      
       <CoolLightBox 
         :items="images" 
         :index="index"
