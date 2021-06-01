@@ -6,6 +6,17 @@
     <div class="section details">
       <h1 class="title">Order of Service</h1>
       <p class="highlight"><em>Date TBC</em> Details will appear here in due course.</p>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>How to disable downloading of the PDF document</h1>
+    <iframe src="https://github.com/barondavidward/lovingmemory/blob/master/assets/draft.pdf#toolbar=0" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
+
     </div>
   </div>
 </template>
