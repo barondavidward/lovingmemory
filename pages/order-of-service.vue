@@ -11,7 +11,7 @@
     <title>Title of the document</title>
   </head>
   <body>
-    <iframe src="https://www.dropbox.com/s/2metx0xttgfu0u2/draft.pdf?dl=0#toolbar=0" width="100%" height="500px">
+    <iframe src="http://www.dropbox.com/s/2metx0xttgfu0u2/draft.pdf?dl=0#toolbar=0" width="100%" height="500px">
     </iframe>
   </body>
 </html>
