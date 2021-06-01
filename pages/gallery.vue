@@ -5,7 +5,7 @@
     </div>
     <div class="section details">
       <h1 class="title">Tributes</h1>
- <p class="highlight">If you would like to share your tribute in loving memory of Baron David Ward, please send audio snippets, brief videos, comments, experiences, pictures, poems, short stories or memoirs to <a href=mailto:tributes@barondavidward.com> tributes@barondavidward.com</a> for inclusion in the upcoming slideshow at the service. We will do our best to ensure that as many tributes are included as possible in the service. The family and friends of Baron David Ward wish to thank everyone who has contacted them, as well as to all those who have shared kindness, memories and heartfelt words of support in various online forums. Thank you.</p>      
+ <p class="highlight">If you would like to share your tribute in loving memory of Baron David Ward, please send audio snippets, brief videos, comments, experiences, pictures, poems, short stories or memoirs to <a href=mailto:tributes@barondavidward.com> tributes@barondavidward.com</a> for inclusion in the upcoming slideshow at the service. The last date for us to include them in the service is Wednesday 2nd June 2021. The family and friends of Baron David Ward wish to thank everyone who has contacted them, as well as to all those who have shared kindness, memories and heartfelt words of support in various online forums. Thank you.</p>      
       <CoolLightBox 
         :items="images" 
         :index="index"
