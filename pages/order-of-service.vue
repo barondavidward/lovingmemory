@@ -11,7 +11,6 @@
     <title>Title of the document</title>
   </head>
   <body>
-    <h1>How to disable downloading of the PDF document</h1>
     <iframe src="https://github.com/barondavidward/lovingmemory/blob/48e53519b8e31ad868152086f7f282f471da4fb2/assets/draft.pdf#toolbar=0" width="100%" height="500px">
     </iframe>
   </body>
