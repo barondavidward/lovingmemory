@@ -25,6 +25,7 @@
         <ListItem>Committal Music: TBC</ListItem>
 	<ListItem>Exit Music: Dedication by David's Son and Daughter</ListItem>
 	<ListItem>Planting a Cherry Tree in accordance with David's wishes</ListItem>
+	<ListItem>Music whilst planting tree: TBC</ListItem>
 	<ListItem>Celebration of Light and Music dedications follow this service.</ListItem>
       </ul>
     </div>
