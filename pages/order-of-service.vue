@@ -23,7 +23,7 @@
         <ListItem>Montage and Reflection</ListItem>
         <ListItem>Closing Remarks and Committal</ListItem>
         <ListItem>Committal Music: TBC</ListItem>
-	<ListItem>Committal Music: TBC</ListItem>
+	<ListItem>Exit Music: Dedication by David's Son and Daughter</ListItem>
 	<ListItem>Planting a Cherry Tree in accordance with David's wishes</ListItem>
 	<ListItem>Celebration of Light and Music dedications follow this service.</ListItem>
       </ul>
