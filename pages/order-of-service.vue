@@ -22,13 +22,13 @@
         <ListItem>Eulogy by Mike</ListItem>
         <ListItem>Montage and Reflection</ListItem>
         <ListItem>Closing Remarks and Committal</ListItem>
-        <ListItem>Committal Music: Xavier Rudd - Spirit Bird</ListItem>
 	<ListItem>Exit Music: Dedication by David's Son and Daughter (Chris De Burgh - Don't Pay The Ferryman)</ListItem>
-	<ListItem>Planting a Cherry Tree in accordance with David's wishes</ListItem>
+        <ListItem>Committal Music: Xavier Rudd - Spirit Bird</ListItem>
+        <ListItem>Planting a Cherry Tree in accordance with David's wishes</ListItem>
 	<ListItem>Music whilst planting tree: Nahko and Medicine For The People - Dear Brother</ListItem>
 	<ListItem>Celebration of Light and Music dedications follow this service.</ListItem>
+	<ListItem>Follow us after the service for music dedications on <a href="https://bit.ly/barondavidsplaylist">Baron David's playlist</a>
       </ul>
-        <a class="button" target="_blank" rel=”noopener” href="https://www.dropbox.com/s/gas2rcq3tiq2j1p/Order%20of%20Service%20-%20Final.pdf?dl=0">Download Order of Service PDF</a>
     </div>
   </div>
 </template>
