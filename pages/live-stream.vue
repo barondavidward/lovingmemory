@@ -9,7 +9,7 @@
       <h2>Service</h2>
       <p>The service is being performed at a Private Location in accordance with David's wishes.
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="https://youtu.be/tPaaOI8P8cM">Livestream - 14:00 (BST)</a>
+      <a class="button" target="_blank" rel=”noopener” href="">Livestream - 14:00 (BST)</a>
       </ul>
 
     </div>
